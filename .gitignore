@@ -1,9 +1,5 @@
 ﻿bert_models_bucketed/
 *.npy
-*.csv
-*.png
-*.jpg
-*.jpeg
-*.txt
 __pycache__/
 .ipynb_checkpoints/
+.DS_Store
